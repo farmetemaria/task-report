@@ -110,18 +110,15 @@ Ao executar o projeto, o sistema apresenta um relatório com:
 
 ## Kanban
 
-O Kanban do projeto está no arquivo:
+O Kanban oficial do projeto está disponível no Notion:
+
+https://comfortable-pick-578.notion.site/3713d53983d6807ba514ef541c7749a7?v=3713d53983d68023b60c000c61220874
+
+Também mantive um registro em Markdown no arquivo:
 
 ```text
 planejamento/tarefas-kanban.md
 ```
-
-Ele foi organizado com as colunas:
-
-- Backlog;
-- A Fazer;
-- Em Andamento;
-- Concluído.
 
 ## GitFlow simplificado
 
@@ -149,9 +146,7 @@ docs: atualiza readme com instrucoes
 
 Link do vídeo:
 
-```text
-Adicionar aqui o link do Google Drive ou YouTube não listado.
-```
+https://drive.google.com/file/d/1lsJaQQSi-_b2tR2e4dapu_A0kF7znd_B/view?usp=sharing
 
 No vídeo, devem ser apresentados:
 
@@ -167,17 +162,11 @@ No vídeo, devem ser apresentados:
 
 ## Link do repositório
 
-```text
-Adicionar aqui o link do repositório público no GitHub.
-```
+https://github.com/farmetemaria/task-report
 
 ## Link do Kanban
 
-Como o Kanban está no próprio repositório, o link pode apontar para o arquivo:
-
-```text
-Adicionar aqui o link do arquivo planejamento/tarefas-kanban.md no GitHub.
-```
+https://comfortable-pick-578.notion.site/3713d53983d6807ba514ef541c7749a7?v=3713d53983d68023b60c000c61220874
 
 ## Checklist final
 
@@ -206,9 +195,9 @@ Adicionar aqui o link do arquivo planejamento/tarefas-kanban.md no GitHub.
 - [x] Listar status únicos com `Set`
 - [x] Identificar tarefas com dados incompletos
 - [x] Gerar relatório final no console
-- [ ] Criar repositório público no GitHub
-- [ ] Fazer commits no GitHub
-- [ ] Usar branches
-- [ ] Gravar vídeo de até 5 minutos
-- [ ] Colocar o vídeo com permissão correta
+- [x] Criar repositório público no GitHub
+- [x] Fazer commits no GitHub
+- [x] Usar branches
+- [x] Gravar vídeo de até 5 minutos
+- [x] Colocar o vídeo com permissão correta
 - [ ] Enviar os links no AVA
